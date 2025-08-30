@@ -30,6 +30,42 @@ The following models were implemented and compared:
 - scikit-learn  
 - xgboost  
 
+## Visualizations
+
+### Correlation Matrix
+![Correlation Matrix](correlation_matrix.png)
+
+### Categorical Features vs Churn
+![Categorical Features](categorical_features_churn.png)
+
+### Relationship Between Tenure, Internet Service Type, and Churn
+![Relationship Between Tenure, Internet Service Type, and Churn](relationship_between_tenure_intservice_churn.png)
+
+### Charges by Tenure
+![Charges by Tenure](charges_by_tenure.png)
+
+### Tenure by Churn 
+![Tenure by Churn](tenure_by_churn.png)
+
+### MonthlyCharges by Churn
+![MonthlyCharges by Churn](monthly_charges_by_churn.png)
+
+### Distributions of Total Charges, MonthlyCharges and Tenure by churn
+![Distributions of Total Charges, MonthlyCharges and Tenure by churn](tenure_monthly_totalcharges_distribution.png)
+
+### Model Scores
+![Model Scores](model_scores.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Features Importance
+![Feature Importance](features_importance.png)
+
+### ROC Curve - All Models
+![ROC Curve - All Models](ROC_curve.png)
+
+
 ## How to Run
 1. Clone the repository:
    ```bash
