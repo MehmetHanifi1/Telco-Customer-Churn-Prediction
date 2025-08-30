@@ -30,6 +30,19 @@ The following models were implemented and compared:
 - scikit-learn  
 - xgboost  
 
+## Dataset
+[Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+## Requirements
+- Python 3.x  
+- pandas  
+- numpy  
+- matplotlib  
+- seaborn  
+- plotly  
+- scikit-learn  
+- xgboost  
+
 ## Visualizations
 
 ### Correlation Matrix
@@ -65,8 +78,7 @@ The following models were implemented and compared:
 ### ROC Curve - All Models
 ![ROC Curve - All Models](ROC_curve.png)
 
-
-## How to Run
+## Usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/MehmetHanifi1/Telco-Customer-Churn-Prediction.git
@@ -74,7 +86,5 @@ The following models were implemented and compared:
    pip install -r requirements.txt
    jupyter notebook ChurnPrediction.ipynb
 
-## Dataset
-[Telco Customer Churn - Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 
